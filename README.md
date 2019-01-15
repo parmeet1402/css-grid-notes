@@ -11,3 +11,4 @@
 |order|Helps to custom align the elememts w.r.t. the order value|order-value|
 |grid-template-columns|Used to specify columns of the grid|integer, fr, auto, repeat()|
 |grid-template-rows|Used to specify rows of the grid|integer, fr, auto, repeat()|
+|grid-template|Used to specify both rows and columns of the grid|number of rows/number of columns|
